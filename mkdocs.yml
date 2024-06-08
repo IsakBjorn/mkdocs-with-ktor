@@ -1,6 +1,7 @@
 # $schema: https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: My Docs
 
+docs_dir: docs
 theme:
   name: material
   features:
@@ -16,4 +17,3 @@ plugins:
 extra:
   tags:
     how-to: Bicycle
-

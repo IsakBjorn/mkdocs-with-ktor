@@ -32,7 +32,7 @@ out/
 /nbdist/
 /.nb-gradle/
 
-src/main/resources/static/
+app/src/main/resources/static/
 mkdocs/site/
 ### VS Code ###
 .vscode/

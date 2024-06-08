@@ -1,4 +1,4 @@
-package no.spk.plugins
+package no.ibear.mkdocs.plugins
 
 import io.ktor.http.*
 import io.ktor.http.content.*
