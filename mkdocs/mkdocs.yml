@@ -1,0 +1,19 @@
+# $schema: https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: My Docs
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+
+
+  palette:
+    scheme: slate
+    primary: blue
+plugins:
+  - tags
+
+extra:
+  tags:
+    how-to: Bicycle
+
